@@ -1,2 +1,3 @@
 TEST henko
-git diff  
+git diff
+git commity amenda
