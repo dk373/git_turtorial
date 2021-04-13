@@ -1,3 +1,4 @@
 TEST henko
 git diff
-git commity amenda
+git commity amend
+git merge
